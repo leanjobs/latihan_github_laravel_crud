@@ -7,6 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <H1>Hello</H1>
+    <form action="" method="post">
+        <input type="checkbox" name="" id="">
+    </form>
 </body>
 </html>
